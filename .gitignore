@@ -4,6 +4,7 @@ node_modules
 # build artefacts
 public
 css
+dist
 
 # secrets and errors
 .env
